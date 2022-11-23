@@ -1,6 +1,16 @@
 #!/bin/bash
 
 
+################################################################## #
+
+Script Name: install_zabbix.sh
+Description: Faz instalação do Zabbix 6.0 ou 6.2 na Ubuntu 20.04 ou 22.04
+
+Written by: Victor Lins
+----------------------------------------------------------------
+Version 1.0.0
+##################################################################-#
+
 echo "Informe a versão do Ubuntu, 20.04 ou 22.04:  "
 read versao_ubuntu
 
